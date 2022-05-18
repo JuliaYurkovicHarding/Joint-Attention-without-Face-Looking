@@ -8,8 +8,11 @@
 %   Kelli C. Dominick, Ernest V. Pedapati, Craig A. Erickson,
 %   Chen Yu, and Daniel P. Kennedy
 
+% Link to Paper:
+%   https://www.cell.com/current-biology/fulltext/S0960-9822(22)00662-5
+
 % Link to Data on OSF:
-%   {LINK}
+%   https://osf.io/fw7tv/
 
 % Accompanying Analyses
 %   Script Last Updated: January 2022
